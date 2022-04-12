@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/-Miro-F2C52D?style=for-the-badge&logo=miro"/>
   <img src="https://img.shields.io/badge/-Trello-095ED9?style=for-the-badge&logo=trello"/>
   </p>
+  
 <!--
 **THEWENDI/THEWENDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
