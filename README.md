@@ -1,4 +1,8 @@
-### # Hi 👋 I am Wendi (Isaac) Li
+# ![header](https://raw.githubusercontent.com/THEWENDI/THEWENDI/main/Hello.png)
+
+<h1 align="center"> Hi, I am Wendi (Isaac) Li <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">Console.log(“Hello,World”); Where the journey begins.<br>
+I am a software developer who is passionate about creating user-friendly applications <br> to solve real-world problems, especially for the outdated old local small business.<br> <br>Before “Hello,World”, as an independent artist, <br> I distributed My original Music on mainstream platforms <br>(Apple music, Spotify and Netease Cloud Music)<br> over 100+ countries and achieved total of 1.8 million streams.<br>Commissioned to produce the theme song of the anime “I’m MT” and achieved 10 millions views and 38k Likes.<br> For promoting my music, I taught myself HTML and CSS to create my Music website.<br> My interest of coding was ignited. I enjoy the creative process.<br> The process from 0 to 100 percent finish gives me satisfaction from anything. <br><br>THE WENDI MUSIC :https://linktr.ee/THEWENDI <br><br>My time at Coding Dojo, during the 16-week course, 1000 hour coding time,<br> I learned 3 full stacks (Python, Java, and MERN).<br>Collaborated with others has bolstered my passion for learning new things, given me a space in which I can learn from others.</p>
 
 <!-- TECH LANGUAGES & TOOLS -->
   <h2 align="center">Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
@@ -29,7 +33,28 @@
   <img src="https://img.shields.io/badge/-Miro-F2C52D?style=for-the-badge&logo=miro"/>
   <img src="https://img.shields.io/badge/-Trello-095ED9?style=for-the-badge&logo=trello"/>
   </p>
+  <p align="center">
+LANGUAGES: Python, Java, Javascript(ES5/6), HTML, CSS <br>
+FRONT-END: React, jQuery, AJAX, JSON, RESTful APIs, Bootstrap <br>
+BACK-END: Node,js, Express, Flask, AWS, Socket,io, OOP, Bcrypt <br>
+DATABASES: MySQL, MongoDB, Mongoose 
+  </p>
+ <h2 align="center">
+   Connect with me </h2>
   
+  <p align="center">
+  <a href="mailto: isaacwendili@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:isaacwendili@gmail.com"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wen-di-isaac-li-948b97236/">
+   <img src="https://img.shields.io/badge/-LinkedIn-1D2226?style=flat&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/wen-di-isaac-li-948b97236/"/>
+  </a>
+  <a href="https://discord.gg/232744490970906624">
+   <img src="https://img.shields.io/badge/-Discord-33363B?style=flat&logo=discord&logoColor=7289DA&link=https://discord.gg/232744490970906624"/>
+  </a>
+  
+  </p>
+
 <!--
 **THEWENDI/THEWENDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
