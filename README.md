@@ -54,6 +54,10 @@ DATABASES: MySQL, MongoDB, Mongoose
   </a>
   
   </p>
+  
+ <div align="center">
+<img src="https://github.com/THEWENDI/THEWENDI/blob/6e55ea11b2c50cc7e1478c95da8a5430ab8b064b/coderman.gif" alt="Coder" width="500" height="250" />
+</div>
 
 <!--
 **THEWENDI/THEWENDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
