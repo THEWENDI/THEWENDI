@@ -1,11 +1,11 @@
 # ![header](https://raw.githubusercontent.com/THEWENDI/THEWENDI/main/Hello.png)
 
-<h1 align="center"> Hi, I am Wendi (Isaac) Li <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hi, I am Wendi (Isaac) Li <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60" > </h1>
 <p align="center">Console.log(“Hello,World”); Where the journey begins.<br>
 I am a software developer who is passionate about creating user-friendly applications <br> to solve real-world problems.<br> <br>Before “Hello,World”, as an independent artist, <br> I distributed My original Music on mainstream platforms <br>(Apple music, Spotify and Netease Cloud Music)<br> over 100+ countries and achieved total of 1.8 million streams.<br>Commissioned to produce the theme song of the anime “I’m MT” and achieved 10 millions views and 38k Likes.<br> For promoting my music, I taught myself HTML and CSS to create my Music website.<br> My interest of coding was ignited. I enjoy the creative process.<br> The process from 0 to 100 percent finish gives me satisfaction from anything. <br><br>THE WENDI MUSIC :https://linktr.ee/THEWENDI <br><br>My time at Coding Dojo, during the 16-week course, 1000 hour coding time,<br> I learned 3 full stacks (Python, Java, and MERN).<br>Collaborated with others has bolstered my passion for learning new things, given me a space in which I can learn from others.</p>
 
 <!-- TECH LANGUAGES & TOOLS -->
-  <h2 align="center">Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+  <h2 align="center">Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"></h2>
   
   <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
